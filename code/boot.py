@@ -12,8 +12,8 @@ sta_if.active(True)
 
 #load wifi credentials from file
 with open("wifi-credentials","r") as f:
-	ssid = f.readline()
-	password = f.readline()
+	ssid = f.readline().replace("\n","")
+	password = f.readline().replace("\n","")
 
 sta_if.connect(ssid,password)
 
