@@ -21,7 +21,7 @@ The choosen programming language is [Micropython](https://micropython.org/).
 ## Building Instructions
 The building time depends mostly on you soldering skills and how clean you want the wiring to look like but should not take long either way.
 
-- After printing both parts you glue the LEDs walls of the top part. I put them roughly 1cm below the top of the wall. By choosing to put the LEDs closer to the top the individual lights get more visible, further away make the lights mix more.
+- After printing both parts you glue the LEDs to the walls of the top part. I put them roughly 1cm below the top edge. The closer the LEDs are to the top the individual lights get more visible, putting them further away make the lights mix more.
 - glue the conductive foil to the outside of the top part.
 - solder everything up to the ESP32 (3 wires for the LEDs + 2 for either capacitive touch pad)
 - put the sheet of paper flat on a (clean) table and put the printed top part on top of it. Then use the hot glue gun on the inside of the part to secure the paper to the top part.
