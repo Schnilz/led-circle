@@ -11,7 +11,7 @@ The choosen programming language is [Micropython](https://micropython.org/).
 ## BOM
 - ~50g Filament (white)
 - 1x NodeMCU 32S Microcontroller (ESP32)
-- 23x WS2812B adressable RGB LEDs
+- 23x WS2812B adressable RGB LEDs (60leds/m)
 - 1x Sheet of A4 Paper
 - 5x small wire pices (i sacrificed a borken usb cable)
 - ~2x5cm copper tape / aluminium foil (for the capacitive touch pads)
